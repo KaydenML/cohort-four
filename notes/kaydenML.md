@@ -35,6 +35,7 @@ I’m interested on working hard on Glados because I believe that it suits my sk
 - [Week 14](https://hackmd.io/@v8QYUEqNQI-q90vwuMaJaw/H10DvymMa)
 - [Week 15](https://hackmd.io/@v8QYUEqNQI-q90vwuMaJaw/H1aQpKhM6)
 - [Week 16](https://hackmd.io/@v8QYUEqNQI-q90vwuMaJaw/SygvXIH7T)
+- [Final Dev Update](https://hackmd.io/@v8QYUEqNQI-q90vwuMaJaw/HJV0WR5mp)
 
 ### Working on Next and Continuing to work on
 
